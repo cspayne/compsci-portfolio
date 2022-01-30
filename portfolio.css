@@ -9,12 +9,10 @@ pre { font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Ti
 
 .center {
   text-align: center;
-  border: 3px solid green;
 }
 
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
 }
