@@ -59,24 +59,24 @@ img {
 {
  display:inline;
  list-style-type:none;
- background-color:#688A08;
+ background-color:#595C6F;
  padding:10px;
  border-radius:5px 5px 0px 0px;
- color:#292A0A;
+ color:#EDF4FE;
  font-weight:bold;
  cursor:pointer;
 }
 
 #main_content li.notselected
 {
- background-color:#688A08;
- color:#292A0A;
+ background-color:#EDF4FE;
+ color:#595C6F;
 }
 
 #main_content li.selected
 {
- background-color:#D0F5A9;
- color:#292A0A;
+ background-color:#595C6F;
+ color:#EDF4FE;
 }
 
 #main_content .hidden_desc
@@ -87,11 +87,11 @@ img {
 
 #main_content #page_content
 {
- background-color:#D0F5A9;
+ background-color:#595C6F;
  padding:10px;
  margin-top:9px;
  border-radius:0px 5px 5px 5px;
- color:#2E2E2E;
+ color:#EDF4FE;
  line-height: 1.6em;
  word-spacing:4px;
 }
