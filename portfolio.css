@@ -48,6 +48,13 @@ img {
   margin-right: auto;
 }
 
+#main_content
+{
+ margin-top:50px;
+ width:500px;
+ margin-left:250px;
+}
+
 #main_content li
 {
  display:inline;
@@ -76,4 +83,15 @@ img {
 {
  display:none;
  visibility:hidden;
+}
+
+#main_content #page_content
+{
+ background-color:#D0F5A9;
+ padding:10px;
+ margin-top:9px;
+ border-radius:0px 5px 5px 5px;
+ color:#2E2E2E;
+ line-height: 1.6em;
+ word-spacing:4px;
 }
